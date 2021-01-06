@@ -1,0 +1,3 @@
+# seleniumUI
+
+用于学习seleinumUtest的浏览器复用和获取cookies来跳过登录
